@@ -1,0 +1,14 @@
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\bin\Debug\VamAPP.exe.config
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\bin\Debug\VamAPP.exe
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\bin\Debug\VamAPP.pdb
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.csproj.AssemblyReference.cache
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.vPage1.resources
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.Properties.Resources.resources
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.vPage2.resources
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.vPage3.resources
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.csproj.GenerateResource.cache
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.csproj.CoreCompileInputs.cache
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.exe
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.pdb
+C:\Users\jakampm\Desktop\Test\VamAPP\VamAPP\obj\Debug\VamAPP.vPage4.resources
